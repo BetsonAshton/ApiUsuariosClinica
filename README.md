@@ -1,5 +1,5 @@
-# Projeto AspNet API Usuarios
-  projeto para cadastrar e autenticar Paciente e Médico
+# Projeto AspNet API Usuarios para controle de pacientes ou médicos
+  projeto para cadastrar e autenticar Paciente ou Médico
  
 * AspNet 7 API
 * Microserviços REST
