@@ -7,5 +7,5 @@
 * Token de autenticação JWT
 * Test-driven development
 * Swagger
-* MD5 hash
+* MD5 Hash
 * Entity Framework Core e acesso ao SqlServer(criar banco com o nome BD_UsuariosApi)
